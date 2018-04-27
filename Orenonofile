@@ -1,0 +1,33 @@
+# encoding: utf-8
+
+# increment command
+# increment's default value => "+"
+increment "ぷに"
+
+# decrement command
+# decrement's default value => "-"
+decrement "もうむり"
+
+# start_loop command
+# start_loop's default value => "["
+start_loop "ねる"
+
+# end_loop command
+# end_loop's default value => "]"
+end_loop "おなかすいた"
+
+# next_cursol command
+# next_cursol's default value => ">"
+next_cursol "おっぱい"
+
+# previous_cursol command
+# previous_cursol's default value => "<"
+previous_cursol "にゃーん"
+
+# display command
+# display's default value => "."
+display "ぴぽ〜"
+
+# read command
+# read's default value => ","
+read "いただきます"
